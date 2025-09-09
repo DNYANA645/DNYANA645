@@ -16,7 +16,7 @@
 
 ### 👋 Hi there, I'm Dnyanesh Shinde!
 
-🎓 3rd-year B.Tech student at Suryodaya College of Engineering and Technology  
+🎓Final-year B.Tech student at Suryodaya College of Engineering and Technology  
 
 🧠 Passionate about **AI, ML, IoT**, and solving real-world problems  
 
